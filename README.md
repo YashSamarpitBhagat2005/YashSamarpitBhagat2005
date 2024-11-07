@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashSamarpitBhagat2005
+- 👋 Hi, I’m Yash Samarpit Bhagat
 - 👀 I’m interested in creating webpages and animations
 - 🌱 I’m currently learning javascript, react, oracle
 - 💞️ I’m looking to collaborate on various open source projects along side my collaborated team
