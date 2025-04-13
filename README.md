@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, react, oracle
 - 💞️ I’m looking to collaborate on various open source projects along side my collaborated team
 - 📫 How to reach me through my email at yashsmbhagat@gmail.com
-- 😄 Pronouns: he/hi m
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ....
 
 <!---
